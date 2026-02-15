@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Gameboy",
+  "base_artist": "KATSEYE",
+  "createdAt": "2026-02-15T13:21:38.911590Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gameboy",
+      "artist": "Liquido",
+      "has_synced": true,
+      "path": "select/01_Gameboy_Liquido.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "i am not your gameboy",
+      "artist": "Freezepop",
+      "has_synced": true,
+      "path": "select/02_i_am_not_your_gameboy_Freezepop.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Gameboy",
+      "artist": "Shampoo",
+      "has_synced": true,
+      "path": "select/03_Gameboy_Shampoo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Gameboy",
+      "artist": "Ayiko feat. Silvervale",
+      "has_synced": true,
+      "path": "select/04_Gameboy_Ayiko_feat._Silvervale.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gameboy",
+      "artist": "RAF Camora",
+      "has_synced": false,
+      "path": "select/05_Gameboy_RAF_Camora.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Gameboy",
+      "artist": "Original God feat. Braxton Knight",
+      "has_synced": true,
+      "path": "select/06_Gameboy_Original_God_feat._Braxton_Knight.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Gameboy (feat. Braxton Knight)",
+      "artist": "Original God;Braxton Knight",
+      "has_synced": true,
+      "path": "select/07_Gameboy_(feat._Braxton_Knight)_Original_God;Braxton_Knight.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Gameboy (feat. Braxton Knight)",
+      "artist": "Original God",
+      "has_synced": true,
+      "path": "select/08_Gameboy_(feat._Braxton_Knight)_Original_God.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "GAMEBOY",
+      "artist": "Nascar Aloe",
+      "has_synced": true,
+      "path": "select/09_GAMEBOY_Nascar_Aloe.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Gameboy",
+      "artist": "Gervs",
+      "has_synced": true,
+      "path": "select/10_Gameboy_Gervs.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Gameboy Color",
+      "artist": "Dani Faiv feat. tha Supreme",
+      "has_synced": true,
+      "path": "select/11_Gameboy_Color_Dani_Faiv_feat._tha_Supreme.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Gameboy Color",
+      "artist": "Dani Faiv & thasup",
+      "has_synced": true,
+      "path": "select/12_Gameboy_Color_Dani_Faiv_&_thasup.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Gameboy Advance",
+      "artist": "Dani Faiv feat. tha Supreme",
+      "has_synced": true,
+      "path": "select/13_Gameboy_Advance_Dani_Faiv_feat._tha_Supreme.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Gameboy Advance",
+      "artist": "Dani Faiv & thasup",
+      "has_synced": true,
+      "path": "select/14_Gameboy_Advance_Dani_Faiv_&_thasup.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Gameboy",
+      "artist": "KATSEYE",
+      "has_synced": false,
+      "path": "select/pl_01_Gameboy_KATSEYE.txt"
+    }
+  ]
+}
