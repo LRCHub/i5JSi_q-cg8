@@ -1,0 +1,104 @@
+# KATSEYE – Gameboy
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Tell your friends that
+I love the drama
+Play pretend,
+but you know it's karma
+You're the one that's
+lonely callin'
+You can blame me,
+but I ain't the problem
+(Ooh)
+You,
+you keep on pushing my buttons,
+you do
+With me, you leveled up, yeah,
+it's true
+Now I'm somebody you don't
+wanna lose
+(Ooh-ooh)
+You're just a Gameboy
+I ain't tryna play, boy
+I ain't thinkin' about you
+Not thinkin' about you
+Lovin' you's a game, boy
+I should throw it away, boy
+I ain't thinking about you, ooh
+You're just a Gameboy
+I ain't tryna play, boy
+I ain't thinkin' about you
+Not thinkin' about you
+Lovin' you's a game, boy
+I should throw it away, boy
+I ain't thinking about you, ooh,
+ooh
+I been goin' out on my own time
+I been doin' me but I don't mind
+That's mine, that's mine
+Me and all my friends in
+the backseat
+Headed to the club in the taxi
+I'm fine, oh, no
+(Ooh)
+You,
+you keep on pushing my buttons,
+you do
+With me, you leveled up, yeah,
+it's true
+Now I'm somebody you don't
+wanna lose
+(Ooh-ooh)
+You're just a Gameboy
+I ain't tryna play, boy
+I ain't thinkin' about you
+Not thinkin' about you
+Lovin' you's a game, boy
+I should throw it away, boy
+I ain't thinking about you, ooh
+(Not thinking about you)
+You're just a Gameboy
+I ain't tryna play, boy
+I ain't thinkin' about you
+Not thinkin' about you
+Lovin' you's a game, boy
+I should throw it away, boy
+I ain't thinking about you, ooh,
+ooh
+(Not thinking about you)
+Tell your friends that
+I love the drama
+Play pretend,
+but you know it's karma
+You're the one that's
+lonely callin'
+Blamin' me,
+but I ain't the problem
+(Woo)
+You're just a Gameboy
+I ain't tryna play, boy
+I ain't thinkin' about you
+Not thinkin' about you
+(Not thinking about you)
+Lovin' you's a game, boy
+I should throw it away, boy
+I ain't thinking about you, ooh
+(Not thinking about you, ooh)
+You're just a Gameboy
+(Gameboy)
+I ain't tryna play, boy
+(Play, boy)
+I ain't thinkin' about you
+Not thinkin' about you
+Lovin' you's a game, boy
+(Oh, game, boy)
+I should throw it away, boy
+I ain't thinking about you, ooh,
+ooh
+(Ain't thinking about you,
+not thinking about you)
+Tell your friends that
+I love the drama
+```
